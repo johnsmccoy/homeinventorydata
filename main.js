@@ -82,7 +82,6 @@ const laptop = {
 HomeInventoryDatabase.electronics.push(laptop)
 
 const saveDatabase = function (databaseObject, localStorageKey) {
-    debugger
     /*
         Convert the Object into a string.
     */
